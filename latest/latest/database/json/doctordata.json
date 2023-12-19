@@ -1,0 +1,80 @@
+[
+    {
+        "id" : "1",
+        "image" : "Adnan-Asdar-Ali.jpg",
+        "DoctorName" : "Adnaclan-Asdar-Ali", 
+        "contact" : "123432134",
+        "email" : "rubinasa@gmail.com",
+        "age" : "23",
+        "address" : "UK",
+        "city" : "Lahore",
+        "speciality" : "cardiology",
+        "pmdc" : "cardiology",
+        "deppartments_id" : "1"
+    },
+    {
+        "id" : "2",
+        "image" : "Dr-Huma-Arshad.jpg",
+        "DoctorName" : "Adnan-Asdar-Ali", 
+        "contact" : "123432123",
+        "email" : "Dr-samra-Arshad@gmail.com",
+        "age" : "23",
+        "address" : "neurologist",
+        "city" : "cardiology",
+        "speciality" : "neurologist",
+        "pmdc" : "cardiology",
+        "deppartments_id" : "2"
+    },
+    {
+        "id" : "3",
+        "image" : "Adnan-Asdar-Ali.jpg",
+        "DoctorName" : "Adnan-Asdar-Ali", 
+        "contact" : "12321234",
+        "email" : "zainab@gmail.com",
+        "age" : "23",
+        "address" : "neurologist",
+        "city" : "cardiology",
+        "speciality" : "neurologist",
+        "pmdc" : "cardiology",
+        "deppartments_id" : "3"
+    },
+    {
+        "id" : "4",
+        "image" : "Adnan-Asdar-Ali.jpg",
+        "DoctorName" : "Adnan-Asdar-Ali", 
+        "contact" : "12343234",
+        "email" : "alina@gmail.com",
+        "age" : "23",
+        "address" : "neurologist",
+        "city" : "cardiology",
+        "speciality" : "neurologist",
+        "pmdc" : "cardiology",
+        "deppartments_id" : "4"
+    },
+    {
+        "id" : "5",
+        "image" : "Adnan-Asdar-Ali.jpg",
+        "DoctorName" : "Adnan-Asdar-Ali", 
+        "contact" : "34321234",
+        "email" : "momina@gmail.com",
+        "age" : "23",
+        "address" : "neurologist",
+        "city" : "cardiology",
+        "speciality" : "neurologist",
+        "pmdc" : "cardiology",
+        "deppartments_id" : "5"
+    },
+    {
+        "id" : "6",
+        "image" : "Adnan-Asdar-Ali.jpg",
+        "DoctorName" : "Adnan-Asdar-Ali", 
+        "contact" : "13432134",
+        "email" : "adnan@gmail.com",
+        "age" : "23",
+        "address" : "neurologist",
+        "city" : "cardiology",
+        "speciality" : "neurologist",
+        "pmdc" : "cardiology",
+        "deppartments_id" : "6"
+    }
+]
